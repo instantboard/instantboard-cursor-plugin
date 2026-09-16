@@ -1,5 +1,7 @@
 # Instantboard for Cursor
 
+![Instantboard](logo.svg)
+
 Remote [MCP](https://modelcontextprotocol.io) server for [Instantboard](https://instantboard.app) — manage cards and columns from Cursor.
 
 ## Install
