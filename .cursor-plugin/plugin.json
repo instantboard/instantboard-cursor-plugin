@@ -1,0 +1,14 @@
+{
+  "name": "instantboard",
+  "version": "1.0.0",
+  "description": "Remote MCP for Instantboard — manage boards, cards, and columns from Cursor.",
+  "author": {
+    "name": "Mixitone Limited",
+    "email": "support@instantboard.app"
+  },
+  "homepage": "https://instantboard.app",
+  "repository": "https://github.com/instantboard/instantboard-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["instantboard", "mcp", "kanban", "planning"],
+  "logo": "logo.svg"
+}
