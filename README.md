@@ -1,8 +1,10 @@
 # Instantboard for Cursor
 
-![Instantboard](logo.svg)
+![Instantboard](plugins/instantboard/logo.svg)
 
 Remote [MCP](https://modelcontextprotocol.io) server for [Instantboard](https://instantboard.app) — manage cards and columns from Cursor.
+
+Cursor imports this repository as a marketplace. The plugin lives in `plugins/instantboard`.
 
 ## Install
 
